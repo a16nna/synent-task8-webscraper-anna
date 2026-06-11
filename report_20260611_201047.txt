@@ -1,0 +1,36 @@
+BOOK MARKET INTELLIGENCE REPORT
+==================================================
+
+Total Books Scraped: 1000
+Average Book Price: £35.07
+
+MOST EXPENSIVE BOOK
+-------------------------
+Title: The Perfect Play (Play by Play #1)
+Price: £59.99
+
+CHEAPEST BOOK
+-------------------------
+Title: An Abundance of Katherines
+Price: £10.0
+
+RATING DISTRIBUTION
+-------------------------
+One: 226
+Three: 203
+Five: 196
+Two: 196
+Four: 179
+
+TOP 10 MOST EXPENSIVE BOOKS
+-----------------------------------
+The Perfect Play (Play by Play #1) - £59.99
+Last One Home (New Beginnings #1) - £59.98
+Civilization and Its Discontents - £59.95
+The Barefoot Contessa Cookbook - £59.92
+The Diary of a Young Girl - £59.9
+The Bone Hunters (Lexy Vaughan & Steven Macaulay #2) - £59.71
+Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History - £59.64
+Boar Island (Anna Pigeon #19) - £59.48
+The Man Who Mistook His Wife for a Hat and Other Clinical Tales - £59.45
+The Improbability of Love - £59.45
