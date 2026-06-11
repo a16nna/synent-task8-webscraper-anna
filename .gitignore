@@ -1,0 +1,4 @@
+*.csv
+*.json
+report_*.txt
+__pycache__/
